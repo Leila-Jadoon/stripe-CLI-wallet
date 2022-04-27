@@ -1,0 +1,10 @@
+auth leila 123 leilajadoon@gmail.com
+
+deposit 50.00 4242424242424242 2024 02 322
+
+balance
+
+auth jorge 122 jm@gmail.com
+deposit 25.00 4242424242424242 2024 02 322
+send leila 10.00
+logout
